@@ -12,7 +12,8 @@ var shoutouts = [
   "Your dedication, and of course, your sense of humor. Your dedication is inspiring and I can't thank you enough for your time and enthusiasm for teaching us.",
   "How you check in on everyone and make sure we all get the help we need!",
   "how helpful and wonderful a teacher you are. You and Ally really made class so enjoyable and easy to understand the concepts. Without you too, I dont think that I would have learned the concepts as well or fast. Thanks for making class so much more enjoyable:)",
-  "Your patience! I don’t think I have ever met someone so willing to help even when we ask you the same question over and over again."
+  "Your patience! I don’t think I have ever met someone so willing to help even when we ask you the same question over and over again.",
+  "you're very funny and bossy, but mostly funny. Thanks for always helping us and help us solve like 99% of our bugs and for making this course reaaally entertaining and for knowing a lot of stuff"
 ]
 
 for (x of shoutouts) {
